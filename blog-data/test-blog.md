@@ -1,3 +1,13 @@
+---
+title: test-blog
+tags:
+  - tech
+slug: test-obsidian-blog
+"publishedAt:": 2024-12-18
+lastEditedDate: 2024-12-18
+isPublished: true
+isDeleted:
+---
 # 始めに
 - 箇条書き1
 - 箇条書き2

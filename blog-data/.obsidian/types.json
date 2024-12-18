@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "lastEditedDate": "date",
+    "isPublished": "checkbox",
+    "isDeleted": "checkbox",
+    "publishedAt:": "date"
+  }
+}
