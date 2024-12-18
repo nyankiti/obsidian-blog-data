@@ -3,7 +3,7 @@ title: test-blog
 tags:
   - tech
 slug: test-obsidian-blog
-"publishedAt:": 2024-12-18
+publishedAt: 2024-12-18
 lastEditedDate: 2024-12-18
 isPublished: true
 isDeleted: false
