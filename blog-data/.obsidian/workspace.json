@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "test-blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "test-blog"
             }
           }
         ]
@@ -175,6 +175,6 @@
   },
   "active": "8004fee57b2dd954",
   "lastOpenFiles": [
-    "Welcome.md"
+    "test-blog.md"
   ]
 }
