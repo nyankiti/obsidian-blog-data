@@ -6,7 +6,7 @@ slug: test-obsidian-blog
 "publishedAt:": 2024-12-18
 lastEditedDate: 2024-12-18
 isPublished: true
-isDeleted:
+isDeleted: false
 ---
 # 始めに
 - 箇条書き1
